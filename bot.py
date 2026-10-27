@@ -13,10 +13,10 @@ import subprocess
 logger = logging.getLogger(__name__)
 
 # ==================== CONFIG ====================
-API_ID = 1888747
-API_HASH = "0d707e8ae15254b1453c614bf3026c32"
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8834527785:AAHRKC83GdyVErpwplApSNQELko0hHKiQKw')
-ADMIN_CHAT_ID = 5136226069
+API_ID = 34262281
+API_HASH = "1ac11b5ecb8a078dd703fbaa81ca7c1b"
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8803357104:AAHOhYEIjm1ec_TmvYwIu0BntZOATFEvWxs')
+ADMIN_CHAT_ID = 1659977801
 
 os.makedirs("downloads", exist_ok=True)
 
