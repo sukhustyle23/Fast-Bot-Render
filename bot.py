@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # ==================== CONFIG ====================
 API_ID = 34262281
 API_HASH = "1ac11b5ecb8a078dd703fbaa81ca7c1b"
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8803357104:AAHOhYEIjm1ec_TmvYwIu0BntZOATFEvWxs')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8850284017:AAFXPvQ4pr8i0gT9ifMaXVKuf6r0uz8-plw')
 ADMIN_CHAT_ID = 1659977801
 
 os.makedirs("downloads", exist_ok=True)
